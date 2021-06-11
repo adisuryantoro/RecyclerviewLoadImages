@@ -1,4 +1,4 @@
-package id.betn2020.accordinnovations.model
+package id.adisuryantoro.loadimage.model
 
 data class PhotosModel(
     val album: Int,

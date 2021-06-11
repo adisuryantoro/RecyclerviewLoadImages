@@ -1,7 +1,7 @@
-package id.betn2020.accordinnovations.remote
+package id.adisuryantoro.loadimage.remote
 
-import id.betn2020.accordinnovations.BuildConfig
-import id.betn2020.accordinnovations.model.PhotosModel
+import id.adisuryantoro.loadimage.BuildConfig
+import id.adisuryantoro.loadimage.model.PhotosModel
 import retrofit2.Call
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory

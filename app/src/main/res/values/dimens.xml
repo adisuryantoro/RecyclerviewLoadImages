@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_padding_four">4dp</dimen>
+    <dimen name="margin_padding_six">6dp</dimen>
+    <dimen name="margin_padding_teen">10dp</dimen>
+    <dimen name="margin_padding_twelve">12dp</dimen>
+    <dimen name="margin_padding_sixteen">16dp</dimen>
+    <dimen name="margin_padding_twenty">20dp</dimen>
+    <dimen name="margin_padding_one_hundred">100dp</dimen>
+    <dimen name="margin_padding_one_hundred_twenty">120dp</dimen>
+
+    <dimen name="tv_text_size_twelve">12sp</dimen>
+    <dimen name="tv_text_size_twenty">20sp</dimen>
+
+
+</resources>
