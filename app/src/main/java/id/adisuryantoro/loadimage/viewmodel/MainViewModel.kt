@@ -1,4 +1,4 @@
-package id.betn2020.accordinnovations.viewmodel
+package id.adisuryantoro.loadimage.viewmodel
 
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
